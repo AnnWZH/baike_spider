@@ -1,7 +1,6 @@
 '''
 Created on Jan 24, 2017
 
-@author: weida
 '''
 from bs4 import BeautifulSoup
 import re

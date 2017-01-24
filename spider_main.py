@@ -1,7 +1,6 @@
 '''
 Created on Jan 24, 2017
 
-@author: weida
 '''
 import url_manager
 import html_download

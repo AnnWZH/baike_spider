@@ -1,7 +1,6 @@
 '''
 Created on Jan 24, 2017
 
-@author: weida
 '''
 class htmlOutput(object):
     def __init__(self):
